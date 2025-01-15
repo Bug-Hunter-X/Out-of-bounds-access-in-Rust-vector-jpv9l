@@ -1,0 +1,1 @@
+This repository contains a simple example of an out-of-bounds access error in Rust. The code attempts to access an element in a vector using an index that is out of bounds. This will cause a panic at runtime. The solution demonstrates how to handle this error safely using the get method.
